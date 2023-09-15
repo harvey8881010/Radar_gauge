@@ -1,4 +1,12 @@
-# Guide on code used in the research project: "Identifying Radar-Gauge Rainfall Discrepancy Using Machine Learning Algorithms" 
+# Important Notices
+
+1. **For the file "Anakin_Diss_Code"**: Due to the order of the code, some functions are used before they are defined. **This version is for VIEW ONLY.** The results are exactly the same as the ones in the final dissertation report. Note that results from each run of the models might vary.
+
+2. **For Practical Use**: Use the file "Diss_code_updated" when attempting to run the code on your own machine.
+
+---
+
+# Guide on Code Used in the Research Project: "Identifying Radar-Gauge Rainfall Discrepancy Using Machine Learning Algorithms" 
 
 ## Table of Contents
 1. [Introduction](#introduction)
